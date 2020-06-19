@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_history_black_24dp"
+            android:title="@string/affects123" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="@string/prevention"
+            android:icon="@drawable/ic_forward_black_24dp"/>
+
+
+        <item android:id="@+id/love"
+            android:icon="@drawable/ic_trending_flat_black_24dp"
+            android:title="@string/liveupdates"
+            android:onClick="livee"/>
+
+    </group>
+
+    <item android:title="@string/theses">
+        <menu>
+
+
+
+
+            <item
+                android:id="@+id/ps"
+                android:onClick="browser6"
+                android:icon="@drawable/ic_attachment_black_24dp"
+                android:title="Presentation Video" />
+
+
+
+            <item
+                android:id="@+id/ap"
+                android:onClick="browser4"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Gallery" />
+
+
+
+
+            <item
+                android:id="@+id/as"
+                android:onClick="browser5"
+                android:icon="@drawable/ic_group_black_24dp"
+                android:title="About ud" />
+
+
+        </menu>
+    </item>
+</menu>

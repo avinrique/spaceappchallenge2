@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Space app challange</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="estrellas">ESTRELLAS</string>
+    <string name="when_there_s_a_link_there_s_a_way">When there\'s a link there\'s a way</string>
+    <string name="gallary">Gallary</string>
+    <string name="about_us">About us</string>
+    <string name="covid_cases">Covid cases</string>
+    <string name="space_app">Space app site</string>
+    <string name="gallary1">Gallery</string>
+    <string name="theses">theses</string>
+    <string name="history">history</string>
+    <string name="corona">corona</string>
+    <string name="presentation">presentation</string>
+    <string name="covid_live_updates">COVID live Updates</string>
+    <string name="liveupdates">Liveupdates</string>
+    <string name="live_updates_from_worldmeter">live updates from Worldmeter</string>
+    <string name="affects">COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.\n
+Most common symptoms:\n
+fever\n
+dry cough\n
+tiredness\n\n
+Less common symptoms:\n
+aches and pains\n
+sore throat\n
+diarrhoea\n
+conjunctivitis\n
+headache\n
+loss of taste or smell\n
+a rash on skin, or discolouration of fingers or toes\n\n
+Serious symptoms:\n
+difficulty breathing or shortness of breath\n
+chest pain or pressure\n
+loss of speech or movement\n\n
+Seek immediate medical attention if you have serious symptoms. Always call before visiting your doctor or health facility.\n\n
+People with mild symptoms who are otherwise healthy should manage their symptoms at home.\n
+On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days.</string>
+    <string name="todo">TODO</string>
+    <string name="history_of_corona_virus">History of corona virus</string>
+    <string name="affects123">Affects</string>
+    <string name="prevention">Prevention</string>
+    <string name="tod">TODO</string>
+    <string name="prev">Protecting yourself and others from the spread COVID-19\n
+You can reduce your chances of being infected or spreading COVID-19 by taking some simple precautions:\n\n
+
+Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water. Why? Washing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands.\n
+Maintain at least 1 metre (3 feet) distance between yourself and others. Why? When someone coughs, sneezes, or speaks they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person has the disease./n
+Avoid going to crowded places. Why? Where people come together in crowds, you are more likely to come into close contact with someone that has COIVD-19 and it is more difficult to maintain physical distance of 1 metre (3 feet).\n
+Avoid touching eyes, nose and mouth. Why? Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and infect you.\n
+Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. Then dispose of the used tissue immediately and wash your hands. Why? Droplets spread virus. By following good respiratory hygiene, you protect the people around you from viruses such as cold, flu and COVID-19.\n
+Stay home and self-isolate even with minor symptoms such as cough, headache, mild fever, until you recover. Have someone bring you supplies. If you need to leave your house, wear a mask to avoid infecting others. Why? Avoiding contact with others will protect them from possible COVID-19 and other viruses.\n
+If you have a fever, cough and difficulty breathing, seek medical attention, but call by telephone in advance if possible and follow the directions of your local health authority. Why? National and local authorities will have the most up to date information on the situation in your area. Calling in advance will allow your health care provider to quickly direct you to the right health facility. This will also protect you and help prevent spread of viruses and other infections.\n
+Keep up to date on the latest information from trusted sources, such as WHO or your local and national health authorities. Why? Local and national authorities are best placed to advise on what people in your area should be doing to protect themselves.\n\n
+
+
+Advice on the safe use of alcohol-based hand sanitizers\n
+To protect yourself and others against COVID-19, clean your hands frequently and thoroughly. Use alcohol-based hand sanitizer or wash your hands with soap and water. If you use an alcohol-based hand sanitizer, make sure you use and store it carefully.\n\n
+
+Keep alcohol-based hand sanitizers out of children’s reach. Teach them how to apply the sanitizer and monitor its use.\n
+Apply a coin-sized amount on your hands. There is no need to use a large amount of the product.\n
+Avoid touching your eyes, mouth and nose immediately after using an alcohol-based hand sanitizer, as it can cause irritation.\n
+Hand sanitizers recommended to protect against COVID-19 are alcohol-based and therefore can be flammable. Do not use before handling fire or cooking.\n
+Under no circumstance, drink or let children swallow an alcohol-based hand sanitizer. It can be poisonous. \n
+Remember that washing your hands with soap and water is also effective against COVID-19.</string>
+    <string name="corona_virus">Corona virus</string>
+    <string name="origin_of_virus">ORIGIN OF VIRUS</string>
+    <string name="org">China alerted the WHO to cases of unusual pneumonia in Wuhan on December 31.\n
+
+COVID-19 is thought to have originated in a seafood market where wildlife was sold illegally.\n
+
+On February 7, Chinese researchers said the virus could have spread from an infected animal to humans through illegally trafficked pangolins, prized in Asia for food and medicine.\n
+
+Scientists have pointed to either bats or snakes as possible sources.\n
+
+    </string>
+    <string name="envo">As we know enviromental factors that affect COVID-19\n
+    So we should maintain the enviroment by the following ways\n
+        1)Afforestation(Planting trees)\n
+        2)use of Alternative source\n
+        3)decrease in use of Fossil fule\n
+        4)Using 3R method (Reduce,Reuse,Recycle)\n
+        5)Banning plastics products\n
+    </string>
+    <string name="we_should_act">We Should Act</string>
+    <string name="avinav_gupta">Avinav Gupta</string>
+    <string name="aveens_and_elvish">Aveens and Elvish</string>
+    <string name="coder_and_creator">CODER and CREATOR</string>
+    <string name="swikarya_dahal">Swikarya Dahal</string>
+    <string name="helped_by">Helped by</string>
+    <string name="presentor_nand_ndesigner">PRESENTOR \nand \nDESIGNER</string>
+    <string name="main">main</string>
+    <string name="click_me">Click me</string>
+
+
+</resources>

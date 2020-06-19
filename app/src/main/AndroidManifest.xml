@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.avin.spaceappchallange">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/c"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/c"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".fullscreen"></activity>
+        <activity android:name=".message" />
+        <activity android:name=".Main5Activity" />
+        <activity android:name=".liveupdates" />
+        <activity android:name=".Aboutus" />
+        <activity android:name=".gallary" />
+        <activity android:name=".Main4Activity" />
+        <activity
+            android:name=".Main3Activity"
+            android:label="@string/title_activity_main3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
